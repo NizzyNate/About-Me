@@ -13,6 +13,7 @@ Hello my name is Nathan Alexander Rodrigues i'm a senior at Brockton High School
 ![j.cole,kendricklamar](./Kendrick-lamar-J-cole-Collage-.jpg)  
 - My Favorite Tv show is [Invader Zim](https://www.amazon.com/Invader-Zim-Operation-Doom/dp/B004GTVU7S)
  ![InvaderZim](InvaderZim.jpg)
-- My Favorite video game Series is [Kingdom Hearts](https://www.amazon.com/Kingdom-Hearts-Story-So-Far-PlayStation/dp/B07J2KVXY3)  
+- My Favorite video game Series is [Kingdom Hearts](https://www.amazon.com/Kingdom-Hearts-Story-So-Far-PlayStation/dp/B07J2KVXY) 
+![Kingdom Hearts](./kh.jpg)  
 - My Favorite Movie is [Chronicle](https://www.imdb.com/title/tt1706593/mediaindex) 
 ![Chronicle](./Chronicle.jpg)
